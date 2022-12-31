@@ -1,5 +1,5 @@
 # Introduction 
-Supplemental scipts for Humbled Geeks blog.
+Supplemental scripts for Humbled Geeks blog.
 
 # Projects
 1.	Add vSphere Hosts to vCenter
