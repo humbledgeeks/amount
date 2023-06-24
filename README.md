@@ -7,6 +7,9 @@ Supplemental scripts for Humbled Geeks blog.
 - configure_hosts_addon.ps1 = Configure base networking, iSCSI datastores, and NTP server info; existing datastores must already be formatted.
 - configure_hosts.csv = Variables file, applicable to both scripts.
 
+2. Revert VMs
+- revert_test_vms.ps1 = revert VMs to a previous snapshot.
+
 # Run
 Local machine with network connectivity to ESXi Hosts
 1. Configure Hosts
